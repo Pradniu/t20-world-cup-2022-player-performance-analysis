@@ -1,4 +1,4 @@
-# t20-world-cup-2022-player-performance-analysis
+# Player Performance Analytics Of T20 World Cup 2022
 <img width="1100" height="500" alt="image" src="https://github.com/user-attachments/assets/dbcd537e-8c05-46d1-b528-775c05772cc4" />
 
 
